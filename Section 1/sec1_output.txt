@@ -1,0 +1,150 @@
+1) Student Name                 : SPWKLZWHCIE GAPCEXAS
+    Number of Exam Scores : 11
+    Exam Scores                   : 100 88 95 94 98 100 90 71 100 92 98 
+    Average Exam Score       : 93.27
+    Letter Grade                   : A-
+
+2) Student Name                 : FCCEPWNFVV XJME W
+    Number of Exam Scores : 11
+    Exam Scores                   : 78 83 92 76 83 88 93 100 68 100 70 
+    Average Exam Score       : 84.64
+    Letter Grade                   : B-
+
+3) Student Name                 : FKAXVFR MAEPR X
+    Number of Exam Scores : 7
+    Exam Scores                   : 86 100 100 100 74 99 72 
+    Average Exam Score       : 90.14
+    Letter Grade                   : B+
+
+4) Student Name                 : UJSYE DTULCIC A
+    Number of Exam Scores : 8
+    Exam Scores                   : 100 87 100 85 86 100 79 84 
+    Average Exam Score       : 90.12
+    Letter Grade                   : B+
+
+5) Student Name                 : UIPXMS SLOVX
+    Number of Exam Scores : 5
+    Exam Scores                   : 85 90 100 70 98 
+    Average Exam Score       : 88.60
+    Letter Grade                   : B+
+
+6) Student Name                 : WAQGUMH BSPRXASR V
+    Number of Exam Scores : 11
+    Exam Scores                   : 68 85 100 71 95 65 100 76 89 100 98 
+    Average Exam Score       : 86.09
+    Letter Grade                   : B
+
+7) Student Name                 : VVXFFGIK OWVQEMVS W
+    Number of Exam Scores : 5
+    Exam Scores                   : 100 78 65 100 100 
+    Average Exam Score       : 88.60
+    Letter Grade                   : B+
+
+8) Student Name                 : HVPBUM LLWMAR C
+    Number of Exam Scores : 10
+    Exam Scores                   : 89 98 72 84 78 100 100 100 84 88 
+    Average Exam Score       : 89.30
+    Letter Grade                   : B+
+
+9) Student Name                 : XMKSPFF NNSR H
+    Number of Exam Scores : 11
+    Exam Scores                   : 91 89 75 67 86 90 100 100 100 100 99 
+    Average Exam Score       : 90.64
+    Letter Grade                   : B+
+
+10) Student Name                 : YEELIT UEGAIN W
+    Number of Exam Scores : 8
+    Exam Scores                   : 68 93 71 67 75 100 87 79 
+    Average Exam Score       : 80.00
+    Letter Grade                   : C+
+
+11) Student Name                 : OTFI VZQHLLA D
+    Number of Exam Scores : 10
+    Exam Scores                   : 95 82 100 99 100 94 96 83 86 100 
+    Average Exam Score       : 93.50
+    Letter Grade                   : A-
+
+12) Student Name                 : OBWRBCI CWWUZGT D
+    Number of Exam Scores : 9
+    Exam Scores                   : 76 100 77 81 83 94 82 90 69 
+    Average Exam Score       : 83.56
+    Letter Grade                   : B-
+
+13) Student Name                 : OKD MGULGFP
+    Number of Exam Scores : 9
+    Exam Scores                   : 93 87 70 98 98 70 100 81 98 
+    Average Exam Score       : 88.33
+    Letter Grade                   : B+
+
+14) Student Name                 : DAVWDFT BSJE R
+    Number of Exam Scores : 9
+    Exam Scores                   : 76 94 69 88 87 100 75 70 96 
+    Average Exam Score       : 83.89
+    Letter Grade                   : B-
+
+15) Student Name                 : DJEOVV TDIZ K
+    Number of Exam Scores : 11
+    Exam Scores                   : 90 100 100 100 75 77 100 100 87 89 92 
+    Average Exam Score       : 91.82
+    Letter Grade                   : A-
+
+16) Student Name                 : Rzg Rjrx
+    Number of Exam Scores : 5
+    Exam Scores                   : 86 69 100 100 100 
+    Average Exam Score       : 91.00
+    Letter Grade                   : B+
+
+17) Student Name                 : GYYAVR DZSC M
+    Number of Exam Scores : 8
+    Exam Scores                   : 78 100 100 68 68 100 87 85 
+    Average Exam Score       : 85.75
+    Letter Grade                   : B
+
+18) Student Name                 : SEESU JIKYMQ
+    Number of Exam Scores : 7
+    Exam Scores                   : 100 81 100 74 100 89 100 
+    Average Exam Score       : 92.00
+    Letter Grade                   : A-
+
+19) Student Name                 : FYFKENVQ LGJKRRX
+    Number of Exam Scores : 7
+    Exam Scores                   : 100 88 75 100 81 65 91 
+    Average Exam Score       : 85.71
+    Letter Grade                   : B
+
+20) Student Name                 : GZGILBKIT ICTF Q
+    Number of Exam Scores : 5
+    Exam Scores                   : 100 100 81 83 75 
+    Average Exam Score       : 87.80
+    Letter Grade                   : B
+
+21) Student Name                 : TRQHK QCIC V
+    Number of Exam Scores : 8
+    Exam Scores                   : 91 100 82 100 100 81 92 96 
+    Average Exam Score       : 92.75
+    Letter Grade                   : A-
+
+22) Student Name                 : KMPTPTAV OZGASIN A
+    Number of Exam Scores : 7
+    Exam Scores                   : 100 68 100 89 98 84 90 
+    Average Exam Score       : 89.86
+    Letter Grade                   : B+
+
+23) Student Name                 : WMWACIX CGLP T
+    Number of Exam Scores : 5
+    Exam Scores                   : 100 100 71 75 80 
+    Average Exam Score       : 85.20
+    Letter Grade                   : B
+
+24) Student Name                 : ZBKOGI NTEIU R
+    Number of Exam Scores : 9
+    Exam Scores                   : 100 80 73 92 81 91 85 100 91 
+    Average Exam Score       : 88.11
+    Letter Grade                   : B
+
+25) Student Name                 : DXTPGP NHZR Y
+    Number of Exam Scores : 10
+    Exam Scores                   : 69 100 77 92 97 91 82 75 93 100 
+    Average Exam Score       : 87.60
+    Letter Grade                   : B
+
