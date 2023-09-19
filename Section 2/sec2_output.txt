@@ -1,0 +1,75 @@
+1) Student Name : SPWKLZWHCIE GAPCEXAS 
+   [Score and Grade] : 99 B, 100 B, 91 C, 68 F, 72 D, 100 B, 93 C, 74 D, 77 D, 96 B
+
+2) Student Name : FCCEPWNFVV XJME W 
+   [Score and Grade] : 100 B, 100 B, 100 B, 92 C, 80 C, 70 F, 84 C, 76 D, 77 D, 80 D
+
+3) Student Name : FKAXVFR MAEPR X 
+   [Score and Grade] : 88 C, 100 B, 100 B, 100 B, 93 B, 100 B, 79 D, 73 D, 100 B, 100 B
+
+4) Student Name : UJSYE DTULCIC A 
+   [Score and Grade] : 75 D, 84 C, 70 F, 71 F, 72 D, 69 F, 100 B, 80 C, 80 D, 100 B
+
+5) Student Name : UIPXMS SLOVX 
+   [Score and Grade] : 86 C, 71 F, 98 B, 88 C, 72 D, 99 B, 70 F, 85 C, 71 F, 76 D
+
+6) Student Name : WAQGUMH BSPRXASR V 
+   [Score and Grade] : 97 B, 67 F, 80 D, 100 B, 100 A, 87 C, 90 C, 99 B, 88 C, 66 F
+
+7) Student Name : VVXFFGIK OWVQEMVS W 
+   [Score and Grade] : 84 D, 72 F, 69 F, 76 D, 76 D, 93 B, 100 B, 90 B, 100 B, 72 D
+
+8) Student Name : HVPBUM LLWMAR C 
+   [Score and Grade] : 85 C, 98 B, 100 B, 98 B, 100 A, 100 B, 83 C, 86 C, 93 C, 80 D
+
+9) Student Name : XMKSPFF NNSR H 
+   [Score and Grade] : 100 B, 72 F, 100 B, 66 F, 75 D, 69 F, 96 B, 77 D, 74 D, 69 F
+
+10) Student Name : YEELIT UEGAIN W 
+   [Score and Grade] : 100 B, 100 B, 96 B, 100 B, 93 B, 97 B, 81 D, 97 B, 100 B, 81 C
+
+11) Student Name : OTFI VZQHLLA D 
+   [Score and Grade] : 100 B, 100 B, 68 F, 79 D, 70 D, 100 B, 81 D, 96 B, 100 B, 100 B
+
+12) Student Name : OBWRBCI CWWUZGT D 
+   [Score and Grade] : 71 F, 73 D, 89 C, 83 C, 69 D, 89 C, 70 F, 96 B, 93 C, 100 B
+
+13) Student Name : OKD MGULGFP 
+   [Score and Grade] : 100 B, 83 C, 100 B, 100 B, 100 A, 88 C, 80 D, 97 B, 100 B, 100 B
+
+14) Student Name : DAVWDFT BSJE R 
+   [Score and Grade] : 78 D, 95 B, 81 D, 81 D, 100 A, 69 F, 100 B, 94 B, 81 D, 84 C
+
+15) Student Name : DJEOVV TDIZ K 
+   [Score and Grade] : 79 D, 67 F, 100 B, 100 B, 66 F, 82 D, 74 D, 92 B, 81 D, 92 B
+
+16) Student Name : Rzg Rjrx 
+   [Score and Grade] : 95 B, 95 B, 78 D, 91 C, 66 F, 100 B, 67 F, 88 C, 87 C, 100 B
+
+17) Student Name : GYYAVR DZSC M 
+   [Score and Grade] : 94 C, 89 C, 100 B, 94 B, 70 D, 99 B, 70 F, 76 D, 100 B, 67 F
+
+18) Student Name : SEESU JIKYMQ 
+   [Score and Grade] : 100 B, 100 B, 79 D, 92 C, 93 B, 80 D, 94 B, 69 F, 100 B, 70 F
+
+19) Student Name : FYFKENVQ LGJKRRX 
+   [Score and Grade] : 100 B, 91 C, 100 B, 88 C, 95 B, 70 F, 100 B, 82 C, 98 B, 100 B
+
+20) Student Name : GZGILBKIT ICTF Q 
+   [Score and Grade] : 100 B, 83 C, 100 B, 100 B, 100 A, 81 D, 99 B, 70 D, 82 D, 94 B
+
+21) Student Name : TRQHK QCIC V 
+   [Score and Grade] : 80 D, 82 D, 67 F, 66 F, 99 A, 97 B, 95 B, 72 D, 93 C, 67 F
+
+22) Student Name : KMPTPTAV OZGASIN A 
+   [Score and Grade] : 88 C, 100 B, 82 D, 100 B, 74 D, 67 F, 100 B, 69 F, 72 F, 69 F
+
+23) Student Name : WMWACIX CGLP T 
+   [Score and Grade] : 81 D, 100 B, 76 D, 74 D, 67 F, 100 B, 99 B, 85 C, 99 B, 89 C
+
+24) Student Name : ZBKOGI NTEIU R 
+   [Score and Grade] : 79 D, 76 D, 100 B, 86 C, 100 A, 88 C, 95 B, 100 A, 87 C, 91 B
+
+25) Student Name : DXTPGP NHZR Y 
+   [Score and Grade] : 72 F, 100 B, 86 C, 100 B, 68 D, 89 C, 100 B, 84 C, 90 C, 95 B
+
