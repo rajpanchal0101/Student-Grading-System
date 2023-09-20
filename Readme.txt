@@ -24,6 +24,12 @@
 6. sec1_executable.exe :
    - Description: The compiled executable file for Section 1 of the assignment.
 
+7. sec1_screenshot_console_output.JPG :
+   - Description: Screenshot of the console output from Section 1.
+
+8. sec1_screenshot_textfile_output.JPG :
+   - Description: Screenshot of the text file output from Section 1.
+
 
 *Section 2 : In Section 2, the program processes a different format of student data from another input file, calculates subject-wise averages, assigns grade to each subject accordingly for each student and outputs the results to an output file.
 
@@ -46,5 +52,11 @@
 6. sec2_executable.exe :
    - Description: The compiled executable file for Section 2 of the assignment.
 
+7. sec2_screenshot_textfile_output.JPG :
+   - Description: Screenshot of the text file output from Section 2.
 
-## GitHub Repository Link (Assignment 1):
+
+Note : For Doxygen to extract the comments, * and ! have been appended after standard comment syntax.
+
+
+## GitHub Repository Link (Assignment 1): https://github.com/rajpanchal0101/CS700_Assignment1
